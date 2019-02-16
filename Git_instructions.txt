@@ -1,0 +1,6 @@
+1. Git checkout -b <branchname> “to create a local new branch from master”
+2. Create new context in branch such as copying from a directory outside of your directory
+3. Git add . the file and commit int the new branch 
+4. Git push origin <new branch> this also create new branch in github
+5. Git checkout master to toggle to the master
+
