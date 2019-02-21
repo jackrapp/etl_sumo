@@ -1,5 +1,0 @@
-sumo web scraping notes
-
-kimarite - finishing move
-
-h2, span class='mw-headline'
