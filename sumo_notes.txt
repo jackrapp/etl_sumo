@@ -1,9 +1,9 @@
 Pulled 37 rank files from 
-	weblink
+	https://data.world/cervus/sumo-results
 Pulled 37 demo files from
-	weblink
+	https://data.world/cervus/sumo-banzuke
 Found unique values for rank code
 Found description for rank codes from
-	weblink
+	https://en.m.wikipedia.org/wiki/Template:Sumo_rank
 Scraped descriptions and merged them with rank codes from file
 Pushed final merged to sql
