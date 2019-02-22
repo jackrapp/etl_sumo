@@ -1,5 +1,9 @@
-sumo web scraping notes
-
-kimarite - finishing move
-
-h2, span class='mw-headline'
+Pulled 37 rank files from 
+	weblink
+Pulled 37 demo files from
+	weblink
+Found unique values for rank code
+Found description for rank codes from
+	weblink
+Scraped descriptions and merged them with rank codes from file
+Pushed final merged to sql
