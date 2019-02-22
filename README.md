@@ -6,7 +6,7 @@ https://data.world/cervus/sumo-banzuke
 
 Our goal was to explain better the data contained in the sumo-results and sumo-banzuke files, breaking the data into smaller description tables.
 
-Rank - Nate /n
+Rank - Nate </n>
 Heya - Max /n
 Shusshin - Maria /n
 Kimarate - Jackie /n
